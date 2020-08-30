@@ -1,5 +1,3 @@
-Hello @carloscuesta!
-
 <!-- Describe your issue here -->
 
 Issue:

@@ -186,7 +186,7 @@ describe('commit command', () => {
         }
 
         expect(console.warn).toHaveBeenCalledWith(
-          'gitmoji-cli was interrupted'
+          'gitmoji-cmd was interrupted'
         )
         expect(process.exit).toHaveBeenCalledWith(0)
       })

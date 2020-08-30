@@ -1,5 +1,5 @@
 {
-  "name": "gitmoji-cli",
+  "name": "gitmoji-cmd",
   "version": "3.2.10",
   "description": "A gitmoji client for using emojis on commit messages.",
   "engines": {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carloscuesta/gitmoji-cli.git"
+    "url": "git+https://github.com/nathan818fr/gitmoji-cmd.git"
   },
   "keywords": [
     "gitmoji",
@@ -35,9 +35,9 @@
   "author": "Carlos Cuesta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carloscuesta/gitmoji-cli/issues"
+    "url": "https://github.com/nathan818fr/gitmoji-cmd/issues"
   },
-  "homepage": "https://github.com/carloscuesta/gitmoji-cli#readme",
+  "homepage": "https://github.com/nathan818fr/gitmoji-cmd#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "conf": "^7.0.1",

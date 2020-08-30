@@ -14,13 +14,13 @@ const cli = meow(
     $ gitmoji
   Options
     --commit, -c    Interactively commit using the prompts
-    --config, -g    Setup gitmoji-cli preferences.
+    --config, -g    Setup gitmoji-cmd preferences.
     --init, -i      Initialize gitmoji as a commit hook
     --list, -l      List all the available gitmojis
     --remove, -r    Remove a previously initialized commit hook
     --search, -s    Search gitmojis
     --update, -u    Sync emoji list with the repo
-    --version, -v   Print gitmoji-cli installed version
+    --version, -v   Print gitmoji-cmd installed version
   Examples
     $ gitmoji -l
     $ gitmoji bug linter -s

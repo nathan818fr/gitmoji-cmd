@@ -1,33 +1,24 @@
-# gitmoji-cli
+# gitmoji-cmd
 
-[![Travis Build Status](https://img.shields.io/travis/com/carloscuesta/gitmoji-cli/master?style=flat-square)](https://travis-ci.com/carloscuesta/gitmoji-cli)
-[![Code Climate](https://img.shields.io/codeclimate/maintainability/carloscuesta/gitmoji-cli.svg?style=flat-square)](https://codeclimate.com/github/carloscuesta/gitmoji-cli)
-[![Codecov](https://img.shields.io/codecov/c/github/carloscuesta/gitmoji-cli.svg?style=flat-square)](https://github.com/carloscuesta/gitmoji-cli)
-[![David Dependencies](https://img.shields.io/david/carloscuesta/gitmoji-cli.svg?style=flat-square)](https://david-dm.org/carloscuesta/gitmoji-cli)
-[![npm version](https://img.shields.io/npm/v/gitmoji-cli.svg?style=flat-square)](https://www.npmjs.com/package/gitmoji-cli)
-[![npm downloads](https://img.shields.io/npm/dt/gitmoji-cli.svg?style=flat-square)](https://www.npmjs.com/package/gitmoji-cli)
+[![Travis Build Status](https://img.shields.io/travis/com/nathan818fr/gitmoji-cmd/master?style=flat-square)](https://travis-ci.com/nathan818fr/gitmoji-cmd)
+[![Codecov](https://img.shields.io/codecov/c/github/nathan818fr/gitmoji-cmd.svg?style=flat-square)](https://codecov.io/gh/nathan818fr/gitmoji-cmd)
+[![npm version](https://img.shields.io/npm/v/gitmoji-cmd.svg?style=flat-square)](https://www.npmjs.com/package/gitmoji-cmd)
 [![gitmoji badge](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://github.com/carloscuesta/gitmoji)
 
-![gitmoji-cli](https://cloud.githubusercontent.com/assets/7629661/20454643/11eb9e40-ae47-11e6-90db-a1ad8a87b495.gif)
+![gitmoji-cmd](https://cloud.githubusercontent.com/assets/7629661/20454643/11eb9e40-ae47-11e6-90db-a1ad8a87b495.gif)
 
 > A [gitmoji](https://github.com/carloscuesta/gitmoji) interactive client for using gitmojis on commit messages.
 
 ## About
 
-This project provides an easy solution for using [**gitmoji**](https://github.com/carloscuesta/gitmoji) from your command line. Gitmoji-cli solves the hassle of searching through the gitmoji list. Includes a bunch of options you can play with! :tada:
+This project provides an easy solution for using [**gitmoji**](https://github.com/carloscuesta/gitmoji) from your command line. Gitmoji-cmd solves the hassle of searching through the gitmoji list. Includes a bunch of options you can play with! :tada:
 
 ## Install
 
 ### npm
 
 ```bash
-$ npm i -g gitmoji-cli
-```
-
-### brew
-
-```bash
-$ brew install gitmoji
+$ npm i -g gitmoji-cmd
 ```
 
 ## Usage
@@ -44,11 +35,11 @@ A gitmoji interactive client for using gitmojis on commit messages.
   Options
     --init, -i      Initialize gitmoji as a commit hook
     --remove, -r    Remove a previously initialized commit hook
-    --config, -g    Setup gitmoji-cli preferences.
+    --config, -g    Setup gitmoji-cmd preferences.
     --commit, -c    Interactively commit using the prompts
     --list, -l      List all the available gitmojis
     --search, -s    Search gitmojis
-    --version, -v   Print gitmoji-cli installed version
+    --version, -v   Print gitmoji-cmd installed version
     --update, -u    Sync emoji list with the repo
 ```
 
@@ -109,6 +100,6 @@ $ gitmoji -u
 
 ### Config
 
-Run `gitmoji -g` to setup some gitmoji-cli preferences, such as the auto `git add .` feature.
+Run `gitmoji -g` to setup some gitmoji-cmd preferences, such as the auto `git add .` feature.
 
 ![gitmoji config](https://user-images.githubusercontent.com/7629661/41189876-d21167ee-6bd4-11e8-9008-4c987502f307.png)
