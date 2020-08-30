@@ -28,7 +28,7 @@ Array [
     "validate": [Function],
   },
   Object {
-    "message": "Enter the commit message:",
+    "message": "Enter the commit description:",
     "name": "message",
     "validate": [Function],
   },
@@ -50,7 +50,7 @@ Array [
     "validate": [Function],
   },
   Object {
-    "message": "Enter the commit message:",
+    "message": "Enter the commit description:",
     "name": "message",
     "validate": [Function],
   },
@@ -74,7 +74,7 @@ Array [
         "validate": [Function],
       },
       Object {
-        "message": "Enter the commit message:",
+        "message": "Enter the commit description:",
         "name": "message",
         "validate": [Function],
       },
@@ -95,7 +95,7 @@ Array [
         "validate": [Function],
       },
       Object {
-        "message": "Enter the commit message:",
+        "message": "Enter the commit description:",
         "name": "message",
         "validate": [Function],
       },
@@ -121,7 +121,7 @@ Array [
         "validate": [Function],
       },
       Object {
-        "message": "Enter the commit message:",
+        "message": "Enter the commit description:",
         "name": "message",
         "validate": [Function],
       },
@@ -147,7 +147,7 @@ Array [
         "validate": [Function],
       },
       Object {
-        "message": "Enter the commit message:",
+        "message": "Enter the commit description:",
         "name": "message",
         "validate": [Function],
       },
@@ -168,7 +168,7 @@ Array [
         "validate": [Function],
       },
       Object {
-        "message": "Enter the commit message:",
+        "message": "Enter the commit description:",
         "name": "message",
         "validate": [Function],
       },
@@ -189,7 +189,7 @@ Array [
         "validate": [Function],
       },
       Object {
-        "message": "Enter the commit message:",
+        "message": "Enter the commit description:",
         "name": "message",
         "validate": [Function],
       },

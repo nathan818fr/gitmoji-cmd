@@ -56,7 +56,7 @@ export default (gitmojis: Array<Gitmoji>): Array<Object> => [
   },
   {
     name: 'message',
-    message: 'Enter the commit message:',
+    message: 'Enter the commit description:',
     validate: guard.message
   }
 ]

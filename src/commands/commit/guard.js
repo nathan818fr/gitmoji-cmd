@@ -3,7 +3,7 @@ import chalk from 'chalk'
 const errors = {
   scope: chalk.red('Enter a valid scope'),
   title: chalk.red('Enter a valid commit title'),
-  message: chalk.red('Enter a valid commit message')
+  message: chalk.red('Enter a valid commit description')
 }
 
 const title = (title: string) =>
