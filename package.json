@@ -13,7 +13,7 @@
   ],
   "scripts": {
     "build": "babel src -d lib",
-    "package": "pkg . --output ./bin/gitmoji --targets latest-linux-x64,latest-macos-x64,latest-win-x64",
+    "package": "pkg . --output ./bin/gitmoji --targets node12-linux-x64,node12-macos-x64,node12-win-x64",
     "clean": "rm -rf lib",
     "flow": "flow",
     "lint": "prettier --check src/**/*.js",
